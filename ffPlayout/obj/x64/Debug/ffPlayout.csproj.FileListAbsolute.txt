@@ -1,0 +1,10 @@
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\bin\x64\Debug\ffPlayout.exe.config
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\bin\x64\Debug\ffPlayout.exe
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\bin\x64\Debug\ffPlayout.pdb
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\obj\x64\Debug\ffPlayout.Form1.resources
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\obj\x64\Debug\ffPlayout.Properties.Resources.resources
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\obj\x64\Debug\ffPlayout.csproj.GenerateResource.cache
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\obj\x64\Debug\ffPlayout.csproj.CoreCompileInputs.cache
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\obj\x64\Debug\ffPlayout.exe
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\obj\x64\Debug\ffPlayout.pdb
+C:\Users\jordanh\source\repos\ffPlayout\ffPlayout\obj\x64\Debug\ffPlayout.csprojAssemblyReference.cache
